@@ -1,0 +1,8 @@
+{
+  "name": "Fakhri Quran Studio",
+  "description": "Fakhri Quran Studio ULTRA - Professional Quran video creation platform with unlimited custom fonts, multi-layer video timeline, Arabic typography engine, verified reciters, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
